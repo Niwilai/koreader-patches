@@ -1,6 +1,6 @@
 # koreader-patches
 
-Koreader patches that make my Koreader life a bit better.
+Personal KOReader patches I wrote for my own setup — small Lua overrides that fix workflow annoyances I kept running into. I used AI to help write them. Shared here in case anyone else finds them useful.
 
 Copy a patch file into your KOReader `patches/` directory (next to `settings/` on the device, or under your KOReader install on desktop).
 
